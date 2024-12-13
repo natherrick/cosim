@@ -19,5 +19,5 @@ antlr4-python3-runtime == 4.13.2
 setuptools
 Jinja2 >= 2.10
 typing;python_version<"3.5"
-astropy
+astropy == 6.1.5
 odetoolbox >= 2.4
